@@ -12,6 +12,8 @@ public class WebServiceCrud5Application {
 
 	public static void main(String[] args) {
 		System.out.println("Web Service Crud 5");
+		System.out.println("pranali");
+		System.out.println("umare");
 		SpringApplication.run(WebServiceCrud5Application.class, args);
 	}
 
